@@ -1,16 +1,16 @@
 // Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 
 #include "MyZombieGameCharacter.h"
-#include "C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework\Character.h"
+#include "Runtime\Engine\Classes\GameFramework\Character.h"
 #include "HeadMountedDisplayFunctionLibrary.h"
 #include "Camera/CameraComponent.h"
 #include "Components/CapsuleComponent.h"
 #include "Components/InputComponent.h"
 #include "GameFramework/CharacterMovementComponent.h"
 #include "GameFramework/Controller.h"
-#include "C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Math\UnrealMathUtility.h"
-#include "C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStatics.h"
-#include "C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\TimerManager.h"
+#include "Runtime\Core\Public\Math\UnrealMathUtility.h"
+#include "Runtime\Engine\Classes\Kismet\GameplayStatics.h"
+#include "Runtime\Engine\Public\TimerManager.h"
 #include "MyZombieGame\Weapon.h"
 #include "GameFramework/SpringArmComponent.h"
 
