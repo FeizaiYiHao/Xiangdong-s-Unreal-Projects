@@ -3,11 +3,11 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "C:\Users\16259\Documents\Unreal Projects\Snake\Source\Snake\Body.h"
+#include "Body.h"
 #include "GameFramework/Character.h"
 #include "Runtime/Core/Public/Containers/Queue.h"
-#include "C:\Users\16259\Documents\Unreal Projects\Snake\Source\Snake\Food.h"
-#include "C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework\Character.h"
+#include "Food.h"
+#include "Engine\Classes\GameFramework\Character.h"
 #include "SnakeHead.generated.h"
 
 enum class Edirtion : short {
