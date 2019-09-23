@@ -2,8 +2,8 @@
 
 
 #include "SnakeHUD.h"
-#include "C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStatics.h"
-#include "C:\Users\16259\Documents\Unreal Projects\Snake\Source\Snake\SnakeGameModeBase.h"
+#include "Runtime\Engine\Classes\Kismet\GameplayStatics.h"
+#include "Snake\Source\Snake\SnakeGameModeBase.h"
 #include "Engine/Canvas.h"
 
 void ASnakeHUD::DrawHUD()
